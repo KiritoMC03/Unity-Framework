@@ -1,0 +1,18 @@
+{
+    "name": "Old.Framework.Base.Editor",
+    "rootNamespace": "Framework.Base.Editor",
+    "references": [
+        "Old.Framework.Base.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

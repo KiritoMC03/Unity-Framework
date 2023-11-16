@@ -1,0 +1,16 @@
+{
+    "name": "General.Editor.Helper",
+    "rootNamespace": "General.Editor.Helper",
+    "references": [
+        "GUID:7b65f45ab47710c4ab238d15803218f5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

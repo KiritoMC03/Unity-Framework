@@ -1,0 +1,12 @@
+{
+  "name": "com.power-rangers.framework.base",
+  "version": "1.2.2",
+  "displayName": "Framework Base",
+  "description": "",
+  "unity": "2020.3",
+  "author": {
+    "name": "Power Rangers"
+  },
+  "type": "library",
+  "hideInEditor": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Old.Framework.Base.Runtime",
+    "rootNamespace": "Framework.Base",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

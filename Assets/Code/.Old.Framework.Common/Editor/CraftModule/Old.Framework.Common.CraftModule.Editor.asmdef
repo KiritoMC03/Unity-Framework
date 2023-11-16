@@ -1,0 +1,20 @@
+{
+    "name": "Old.Framework.Common.CraftModule.Editor",
+    "rootNamespace": "Framework.Common.CraftModule",
+    "references": [
+        "GUID:5a19cd37a48be87478cd4896fbf9e2f9",
+        "GUID:7b65f45ab47710c4ab238d15803218f5",
+        "GUID:e7ba210298f8d6b459377563d31642de"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
