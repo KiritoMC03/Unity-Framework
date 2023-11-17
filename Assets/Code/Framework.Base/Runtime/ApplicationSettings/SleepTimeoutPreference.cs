@@ -1,4 +1,4 @@
-﻿namespace GameKit.General.ApplicationSettings
+﻿namespace Framework.Base.ApplicationSettings
 {
     public enum SleepTimeoutPreference
     {

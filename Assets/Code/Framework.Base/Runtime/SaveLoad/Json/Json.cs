@@ -1,9 +1,9 @@
 using System;
 using System.IO;
-using General.Extensions;
+using Framework.Base.Extensions;
 using UnityEngine;
 
-namespace General.SaveLoad
+namespace Framework.Base.SaveLoad
 {
     internal struct Json : ISaveLoad
     {

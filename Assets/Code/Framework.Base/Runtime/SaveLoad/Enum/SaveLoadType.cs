@@ -1,4 +1,4 @@
-﻿namespace General
+﻿namespace Framework.Base.SaveLoad
 {
     public enum SaveLoadType
     {

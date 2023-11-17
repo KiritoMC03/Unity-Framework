@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using General.Extensions;
+using Framework.Base.Editor.EnumCreator;
+using Framework.Base.Extensions;
 using UnityEditor;
 using UnityEngine;
 
-namespace ObjectPool.Editor
+namespace Framework.Base.ObjectPool.Editor
 {
     public class ObjectPoolerWindow : EditorWindow
     {

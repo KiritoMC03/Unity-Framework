@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace ObjectPool
+namespace Framework.Base.ObjectPool
 {
     [Serializable]
     public class ObjectInfo

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ObjectPool
+namespace Framework.Base.ObjectPool
 {
     public class ObjectPoolerPrefsForScene : MonoBehaviour
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace ObjectPool
+namespace Framework.Base.ObjectPool
 {
     public class Pool
     {

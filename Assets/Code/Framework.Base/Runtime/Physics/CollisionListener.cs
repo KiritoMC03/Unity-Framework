@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace GameKit.General.Physics
+namespace Framework.Base.Physics
 {
     public class CollisionListener : MonoBehaviour
     {

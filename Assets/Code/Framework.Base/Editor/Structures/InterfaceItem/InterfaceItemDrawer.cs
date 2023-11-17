@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Reflection;
-using General.Extensions;
+using Framework.Base.Extensions;
 using UnityEditor;
 using UnityEngine;
 
-namespace General.Editor
+namespace Framework.Base.Collections.Editor
 {
     [CustomPropertyDrawer(typeof(InterfaceItem<>))]
     public class InterfaceItemDrawer : PropertyDrawer

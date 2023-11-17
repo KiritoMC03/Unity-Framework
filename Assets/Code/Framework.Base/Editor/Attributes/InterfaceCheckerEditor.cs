@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     public enum FieldType
     {

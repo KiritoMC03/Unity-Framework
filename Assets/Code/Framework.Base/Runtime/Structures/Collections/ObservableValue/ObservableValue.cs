@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace General
+namespace Framework.Base.Collections
 {
     [Serializable]
     public class ObservableValue<T>

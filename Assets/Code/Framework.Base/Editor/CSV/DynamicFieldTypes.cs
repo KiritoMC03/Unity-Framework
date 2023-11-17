@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Reflection.Emit;
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     public class DynamicFieldTypes
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace General
+namespace Framework.Base.SaveLoad
 {
     [AttributeUsage(AttributeTargets.Struct)]
     public class DataAttribute : Attribute

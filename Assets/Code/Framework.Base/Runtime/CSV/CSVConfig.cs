@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace General.CSV
+namespace Framework.Base.CSV
 {
     public class CSVConfig : ScriptableObject
     {

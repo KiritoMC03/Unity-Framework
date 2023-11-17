@@ -1,7 +1,6 @@
 using NUnit.Framework;
 using UnityEngine;
-using General;
-using General.SaveLoad;
+using Framework.Base.SaveLoad;
 using UnityEditor;
 using PlayerPrefs = UnityEngine.PlayerPrefs;
 
@@ -107,7 +106,7 @@ namespace SaveLoad.Test
         }
     }
 
-    [General.Data(JsonTestTxt,SaveLoadType.Json,EncryptionType.None)]
+    [Framework.Base.SaveLoad.Data(JsonTestTxt,SaveLoadType.Json,EncryptionType.None)]
     internal struct JsonTest
     {
         public const string JsonTestTxt = "JsonTest.txt";
@@ -120,7 +119,7 @@ namespace SaveLoad.Test
         }
     }
     
-    [General.Data(PlayerPrefsKey,SaveLoadType.PlayerPrefs,EncryptionType.None)]
+    [Framework.Base.SaveLoad.Data(PlayerPrefsKey,SaveLoadType.PlayerPrefs,EncryptionType.None)]
     internal struct PlayerPrefsTest
     {
         public const string PlayerPrefsKey = "Test";
@@ -132,7 +131,7 @@ namespace SaveLoad.Test
         }
     }
     
-    [General.Data(XMLTxt,SaveLoadType.Xml,EncryptionType.None)]
+    [Framework.Base.SaveLoad.Data(XMLTxt,SaveLoadType.Xml,EncryptionType.None)]
     public struct XMLTest
     {
         public const string XMLTxt = "Test.txt";

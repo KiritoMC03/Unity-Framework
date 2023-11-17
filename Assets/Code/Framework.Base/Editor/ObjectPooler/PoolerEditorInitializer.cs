@@ -1,11 +1,12 @@
 ﻿#if UNITY_EDITOR
 using System.IO;
-using General.Editor;
+using Framework.Base.Editor;
+using Framework.Base.Editor.EnumCreator;
 using UnityEditor;
 using UnityEditor.Compilation;
 using UnityEngine;
 
-namespace ObjectPool.Editor
+namespace Framework.Base.ObjectPool.Editor
 {
     public class PoolerEditorInitializer
     {

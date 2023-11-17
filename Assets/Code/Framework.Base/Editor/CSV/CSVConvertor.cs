@@ -1,12 +1,11 @@
 using System;
 using UnityEngine;
-using System.Collections;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
-using Rect = General.CSV.Rect;
+using CSV_Rect = Framework.Base.CSV.Rect;
 
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     public class CSVConvertor
     {
@@ -47,7 +46,7 @@ namespace General.Editor
         }
 
 
-        internal List<List<string>> GetData(TextAsset textAsset, Rect rectData)
+        internal List<List<string>> GetData(TextAsset textAsset, CSV_Rect rectData)
         {
             string d = "\"";
             string pattern = $@"({d}\d+)(,)(\d+{d})";
@@ -76,7 +75,7 @@ namespace General.Editor
             return list;
         }
 
-        internal List<string> GetHeader(TextAsset textAsset, Rect rectData)
+        internal List<string> GetHeader(TextAsset textAsset, CSV_Rect rectData)
         {
             List<string> headers = GetData(textAsset, rectData)[0];
             for (int index = 0; index < headers.Count; index++)

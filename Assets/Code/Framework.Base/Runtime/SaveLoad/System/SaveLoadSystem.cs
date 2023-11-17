@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace General.SaveLoad
+namespace Framework.Base.SaveLoad
 {
     public sealed class SaveLoadSystem : ISaveLoadSystem
     {

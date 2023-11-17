@@ -3,7 +3,7 @@ using System.Threading;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 
-namespace GameKit.General.Movement
+namespace Framework.Base.Movement
 {
     public class ToPointMovementHelper
     {

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using UnityEditor;
 using UnityEngine;
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
 #if Il2CPP_DEBUG
 #elif Il2CPP_RELEASE

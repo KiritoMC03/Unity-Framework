@@ -1,4 +1,4 @@
-﻿namespace GameKit.General
+﻿namespace Framework.Base
 {
     public enum TimerCalculateType : int
     {

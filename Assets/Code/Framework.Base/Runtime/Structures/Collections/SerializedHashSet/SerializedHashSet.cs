@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using General.Extensions;
-using General.SaveLoad;
+using Framework.Base.SaveLoad;
+using Framework.Base.Extensions;
 using UnityEngine;
 
-namespace General
+namespace Framework.Base.Collections
 {
     [Serializable]
     public class SerializedHashSet<T> : ISerializationCallbackReceiver, ISaveLoadCallbackReceiver, ICollection<T>,

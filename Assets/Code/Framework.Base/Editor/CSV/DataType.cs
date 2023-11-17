@@ -1,6 +1,6 @@
 using System;
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     public class DataType
     {

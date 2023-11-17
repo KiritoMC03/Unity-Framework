@@ -1,7 +1,7 @@
-﻿using General.Extensions;
+﻿using Framework.Base.Extensions;
 using UnityEngine;
 
-namespace GameKit.General
+namespace Framework.Base
 {
     public readonly struct TimerState
     {

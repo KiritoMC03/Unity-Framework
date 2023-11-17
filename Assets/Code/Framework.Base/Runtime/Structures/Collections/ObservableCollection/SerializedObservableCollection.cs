@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
-using General.Extensions;
+using Framework.Base.Extensions;
 using UnityEngine;
 
-namespace General
+namespace Framework.Base.Collections
 {
     [Serializable]
     public class SerializedObservableCollection<T> : ObservableCollection<T>, ISerializationCallbackReceiver

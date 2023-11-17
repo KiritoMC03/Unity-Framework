@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
+using Framework.Base.Collections;
 
-namespace General.Extensions
+namespace Framework.Base.Extensions
 {
     public static class SerializedHashSetExtensions
     {

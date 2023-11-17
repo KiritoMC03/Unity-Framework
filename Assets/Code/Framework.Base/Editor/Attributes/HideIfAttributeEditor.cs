@@ -2,7 +2,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     [CustomPropertyDrawer(typeof(HideIfAttribute))]
     public class HideIfAttributeEditor : PropertyDrawer

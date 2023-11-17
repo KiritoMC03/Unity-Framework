@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace GameKit.General.Structures
+namespace Framework.Base
 {
     [Serializable]
     public abstract class StringBasedIdentifier : IEquatable<StringBasedIdentifier>

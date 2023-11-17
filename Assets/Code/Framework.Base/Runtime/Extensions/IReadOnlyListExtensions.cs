@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using General.Extensions;
+using Framework.Base.Extensions;
 using UnityEngine;
 
-namespace General.Extensions
+namespace Framework.Base.Extensions
 {
     public static class IReadOnlyListExtensions
     {

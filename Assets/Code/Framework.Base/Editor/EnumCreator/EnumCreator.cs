@@ -2,10 +2,10 @@
 using UnityEngine;
 using System.IO;
 using System.Linq;
-using General.Extensions;
+using Framework.Base.Extensions;
 using UnityEditor.Compilation;
 
-namespace ObjectPool
+namespace Framework.Base.Editor.EnumCreator
 {
     public class EnumCreator
     {

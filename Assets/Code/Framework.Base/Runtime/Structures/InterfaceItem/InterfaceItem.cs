@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace General
+namespace Framework.Base
 {
     /// <summary>
     ///  For link MonoBehaviours.

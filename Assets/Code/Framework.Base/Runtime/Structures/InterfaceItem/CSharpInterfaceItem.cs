@@ -1,7 +1,7 @@
 ﻿using System;
-using General.Extensions;
+using Framework.Base.Extensions;
 
-namespace General
+namespace Framework.Base
 {
     /// <summary>
     ///  For select non MonoBehaviour interface implementation.

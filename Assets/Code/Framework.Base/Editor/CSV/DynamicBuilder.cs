@@ -7,7 +7,7 @@ using UnityEngine;
 using UnityEditor;
 
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     public class DynamicBuilder
     {

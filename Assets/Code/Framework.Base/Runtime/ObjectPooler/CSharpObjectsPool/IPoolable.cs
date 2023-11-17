@@ -1,4 +1,4 @@
-﻿namespace General.ObjectPool
+﻿namespace Framework.Base.ObjectPool
 {
     public interface IPoolable
     {

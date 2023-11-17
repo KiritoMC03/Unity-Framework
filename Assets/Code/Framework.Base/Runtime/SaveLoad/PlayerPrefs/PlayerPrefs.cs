@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
 using System.ComponentModel;
-using General.Extensions;
+using Framework.Base.Extensions;
 
-namespace General.SaveLoad
+namespace Framework.Base.SaveLoad
 {
     internal struct PlayerPrefs : ISaveLoad
     {

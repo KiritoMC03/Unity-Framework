@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using General.Extensions;
+using Framework.Base.Extensions;
 
-namespace General.ObjectPool
+namespace Framework.Base.ObjectPool
 {
     /// <summary>
     /// Not recommended for use with UnityEngine.Object inheritors.

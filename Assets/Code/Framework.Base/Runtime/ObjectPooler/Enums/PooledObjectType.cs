@@ -1,5 +1,5 @@
 #if !OBJECT_POOLER
-namespace ObjectPool
+namespace Framework.Base.ObjectPool
 {
     public enum PooledObjectType
     {

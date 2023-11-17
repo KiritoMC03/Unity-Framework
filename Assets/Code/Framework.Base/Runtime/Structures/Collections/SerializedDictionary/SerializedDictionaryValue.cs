@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace General
+namespace Framework.Base.Collections
 {
     [Serializable]
     internal class SerializedDictionaryValue<TKey, TValue>

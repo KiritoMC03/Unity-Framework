@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using General.Extensions;
+using Framework.Base.Extensions;
 using UnityEditor;
 using UnityEngine;
 
-namespace General.Editor
+namespace Framework.Base.Collections.Editor
 {
     [CustomPropertyDrawer(typeof(CSharpInterfaceItem<>))]
     public class CSharpInterfaceItemDrawer : PropertyDrawer

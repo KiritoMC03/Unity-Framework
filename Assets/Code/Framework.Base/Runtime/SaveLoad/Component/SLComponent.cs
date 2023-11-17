@@ -1,9 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
-using General.SaveLoad;
 using UnityEngine;
 
-namespace General
+namespace Framework.Base.SaveLoad
 {
     public class SLComponent : MonoBehaviour
     {

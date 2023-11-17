@@ -3,7 +3,7 @@ using System;
 using System.Reflection;
 using System.Reflection.Emit;
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     public class DynamicBuilderType
     {

@@ -5,7 +5,7 @@ using System.IO;
 using System.Text;
 using System.Xml;
 
-namespace General.PlayerPrefsExtensions.Editor
+namespace Framework.Base.PlayerPrefsExtensions.Editor
 {
     public static class Plist
     {

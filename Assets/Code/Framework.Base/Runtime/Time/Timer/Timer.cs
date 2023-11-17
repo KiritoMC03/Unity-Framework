@@ -3,7 +3,7 @@ using System.Threading;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 
-namespace GameKit.General
+namespace Framework.Base
 {
     public class Timer
     {

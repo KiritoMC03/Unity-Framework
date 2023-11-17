@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.IO;
-using General.Extensions;
+using Framework.Base.Extensions;
 using UnityEngine;
 
-namespace ObjectPool
+namespace Framework.Base.ObjectPool
 {
     public class ObjectPooler : MonoBehaviour, IObjectPooler
     {

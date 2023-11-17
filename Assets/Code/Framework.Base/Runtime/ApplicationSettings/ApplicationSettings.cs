@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace GameKit.General.ApplicationSettings
+namespace Framework.Base.ApplicationSettings
 {
     public class ApplicationSettings : MonoBehaviour
     {

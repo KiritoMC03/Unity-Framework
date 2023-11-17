@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace GameKit.Physics
+namespace Framework.Base.Physics
 {
     public class TriggerListener : MonoBehaviour
     {

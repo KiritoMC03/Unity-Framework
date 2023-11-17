@@ -1,7 +1,7 @@
 ﻿#if UNITY_EDITOR
 using UnityEngine;
 
-namespace ObjectPool
+namespace Framework.Base.Editor.EnumCreator
 {
     [CreateAssetMenu(fileName = "EnumMembersAsset", menuName = "EnumCreator/New Enum Members Config", order = 0)]
     public class EnumMembersConfig : ScriptableObject

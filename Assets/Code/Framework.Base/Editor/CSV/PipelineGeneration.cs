@@ -1,14 +1,14 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using System.Threading.Tasks;
-using General.CSV;
+using Framework.Base.CSV;
+using Framework.Base.SaveLoad;
 using UnityEditor;
 using UnityEngine;
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     public class PipelineGeneration
     {

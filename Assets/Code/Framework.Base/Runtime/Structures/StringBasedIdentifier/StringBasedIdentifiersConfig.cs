@@ -1,9 +1,8 @@
 ﻿using System;
-using General;
-using GameKit.General.Structures;
+using Framework.Base.Collections;
 using UnityEngine;
 
-namespace GameKit.CraftModule.Resource
+namespace Framework.Base
 {
     public class StringBasedIdentifiersConfig : ScriptableObject
     {

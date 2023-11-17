@@ -1,7 +1,7 @@
 ﻿using System;
 using Random = UnityEngine.Random;
 
-namespace GameKit.General.Structures
+namespace Framework.Base
 {
     [Serializable]
     public struct IntRange

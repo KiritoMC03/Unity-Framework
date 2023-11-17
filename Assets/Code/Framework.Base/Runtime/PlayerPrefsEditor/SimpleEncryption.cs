@@ -1,11 +1,8 @@
 using System;
-using System.Collections;
-using System.IO;
 using System.Security.Cryptography;
 using System.Text;
-using UnityEngine;
 
-namespace General.PlayerPrefsExtensions.Runtime
+namespace Framework.Base.PlayerPrefsExtensions
 {
     public static class SimpleEncryption
     {

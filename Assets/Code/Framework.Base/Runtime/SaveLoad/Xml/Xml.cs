@@ -1,10 +1,9 @@
 using System;
 using System.IO;
 using System.Xml.Serialization;
-using General.Extensions;
-using UnityEngine;
+using Framework.Base.Extensions;
 
-namespace General.SaveLoad
+namespace Framework.Base.SaveLoad
 {
     internal struct Xml : ISaveLoad
     {

@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace General.CSV
+namespace Framework.Base.CSV
 {
     [Serializable]
     public struct Rect

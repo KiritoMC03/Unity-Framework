@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using General.Extensions;
+using Framework.Base.Extensions;
 using UnityEngine.SceneManagement;
 
-namespace ObjectPool
+namespace Framework.Base.ObjectPool
 {
     public delegate void GetObjectPoolerPrefsForSceneDelegate(out ObjectPoolerPrefsForScene prefs);
 

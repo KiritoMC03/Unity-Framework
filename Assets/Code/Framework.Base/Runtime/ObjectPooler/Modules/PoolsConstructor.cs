@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace ObjectPool
+namespace Framework.Base.ObjectPool
 {
     internal class PoolsConstructor
     {

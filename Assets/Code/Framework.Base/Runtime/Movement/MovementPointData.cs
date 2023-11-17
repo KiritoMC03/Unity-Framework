@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace GameKit.General.Movement
+namespace Framework.Base.Movement
 {
     [Serializable]
     public struct MovementPointData

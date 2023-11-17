@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     [Serializable]
     public class Define

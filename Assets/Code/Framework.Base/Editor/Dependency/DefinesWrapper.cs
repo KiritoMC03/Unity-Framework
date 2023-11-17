@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
+using Framework.Base.SaveLoad;
 
-namespace General.Editor
+namespace Framework.Base.Editor
 {
     [Data("DC.json")]
     public struct DefinesWrapper

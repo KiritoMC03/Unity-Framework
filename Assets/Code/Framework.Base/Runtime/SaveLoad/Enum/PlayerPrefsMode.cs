@@ -1,8 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-namespace General
+namespace Framework.Base.SaveLoad
 {
     public enum PlayerPrefsMode
     {

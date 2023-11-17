@@ -1,8 +1,7 @@
 ﻿#if UNITY_EDITOR
 using UnityEngine;
-using UnityEngine.Serialization;
 
-namespace ObjectPool
+namespace Framework.Base.Editor.EnumCreator
 {
     [CreateAssetMenu(fileName = "EnumCreatorConfigAsset", menuName = "EnumCreator/New Config", order = 0)]
     public class EnumCreatorConfig : ScriptableObject

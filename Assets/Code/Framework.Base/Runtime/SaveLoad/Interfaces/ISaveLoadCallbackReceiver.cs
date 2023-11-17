@@ -1,4 +1,4 @@
-﻿namespace General.SaveLoad
+﻿namespace Framework.Base.SaveLoad
 {
     /// <summary>
     /// Using in save load system.
