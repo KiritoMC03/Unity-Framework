@@ -1,4 +1,15 @@
-# General plugin
+# Framework.Base
+
+## [1.3.0] - 2023-11-18
+* `Massive rework`
+* Renamed to Framework.Base.
+* Added IndexationRegistry service as new variant of Dependency-injection-system.
+* InterfaceItem<> and InterfacesList<> structures for pseudo 'Interfaces serialization'.
+* Added other extended collections: serialized/observable Dictionary/HashSet, etc.
+* Added StringBasedIdentifier for serialize string and show it in Unity inspector.
+* Added Application Settings module.
+* Added Timer module.
+* Added CollisionListener and TriggerListener.
 
 ## [1.2.2] - 2022-12-15
 * `Mediator & Collections`
