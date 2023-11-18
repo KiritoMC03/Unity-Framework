@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Framework.Base.ObjectPool
 {
-    [CreateAssetMenu(fileName = "PooledObjectsInfoAsset", menuName = "ObjectPooler/New Pooled Objects Info", order = 0)]
+    [CreateAssetMenu(fileName = "PooledObjectsInfoAsset", menuName = "Framework/ObjectPooler/New Pooled Objects Info", order = 0)]
     public class PooledObjectsInfo : ScriptableObject
     {
         #region Fields

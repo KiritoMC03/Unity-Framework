@@ -1,6 +1,6 @@
 # Framework.Base
 
-## [1.3.0] - 2023-11-18
+## [1.3.1] - 2023-11-18
 * `Massive rework`
 * Renamed to Framework.Base.
 * Added IndexationRegistry service as new variant of Dependency-injection-system.

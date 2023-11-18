@@ -1,0 +1,17 @@
+{
+    "name": "Framework.Idlers.Editor",
+    "rootNamespace": "Framework.Common.CraftModule",
+    "references": [
+        "Framework.Base.Runtime",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
