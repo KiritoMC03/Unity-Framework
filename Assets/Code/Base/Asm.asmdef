@@ -1,0 +1,7 @@
+﻿{
+  "name": "Asm",
+  "references":[ 
+    "GUID:5cc705d45bf5431bb6db94db2013fdfd", 
+    "GUID:b6b85beab369440d8fc80e0137ea4f2d" 
+  ]
+}
